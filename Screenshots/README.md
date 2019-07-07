@@ -12,4 +12,4 @@ This is shown in "Screen Shot 2019-07-07 at 4.23.27 AM.png".
 
 ## Microsoft Learn Dashboard with XP (Core Cloud Services module in - Introduction to Azure)
 
-This is shown in "Screen Shot 2019-07-07 at 4.24.52 AM.png".
+This is shown in "Screen Shot 2019-07-07 at 7.13.53 PM.png" and "Screen Shot 2019-07-07 at 7.14.03 PM.png".
